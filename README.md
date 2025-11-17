@@ -41,12 +41,11 @@ Tabelas principais: `Usuários`, `Produtos`, `CupcakesPersonalizados`, `Pedidos`
 
 ## Como acessar
 - Link do app Glide: *(https://silky-error-7936.glide.page)*  
-- Link do vídeo demonstrativo (YouTube / Drive): *(inserir link)*
+- Link do vídeo demonstrativo (YouTube / Drive): *(https://drive.google.com/drive/folders/1q8YcvrTXioHAXaQtSe5RjRptZXuBhOSg)*
 
 ## Evidências e documentação
 - `DOCUMENTACAO.md` — documentação técnica (requisitos, modelagem, dicionário de dados)  
 - `LAUDO-QUALIDADE.md` — laudo de qualidade com evidências dos testes  
-- `assets/` — prints das telas e diagramas
 
 ---
 
